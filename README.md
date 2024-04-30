@@ -33,6 +33,6 @@ Do include the results of your test run with your test data, along with the sour
 
 # How to Use
 
-In order to run, simply input the string as an argument when the program is executed.  In order to run, run the following from the root:
+In order to run, simply input the string as an argument when the program is executed.  Run from the root:
 
 `dotnet run --project CounterChallenge/src/CounterChallenge "It was many and many a year ago"`
