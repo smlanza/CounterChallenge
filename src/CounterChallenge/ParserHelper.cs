@@ -11,11 +11,9 @@ namespace ParserHelper {
             var words = parseResults.words;
             var separators = parseResults.separators;
 
-            Console.WriteLine(words.Count);
             // Loop through each word and then append the first/last letters along with the separator characters.
             for(int x = 0; x < words.Count; x++)
             {
-                Console.WriteLine(words[x]);
                 var lastChar = words[x][^1];
                 var firstChar = words[x][0];
                 int between = words[x].Length - 2;
@@ -46,7 +44,6 @@ namespace ParserHelper {
             StringBuilder word = new();
             foreach(char l in strToCheck)
             {
-                Console.WriteLine($"Is Alphanumeric:  {IsAlphaNumeric($"{l}")}");
                 if(!IsAlphaNumeric($"{l}"))
                 {
                     words.Add($"{word}");
