@@ -1,0 +1,14 @@
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/bin/Debug/net8.0/CounterChallenge
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/bin/Debug/net8.0/CounterChallenge.deps.json
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/bin/Debug/net8.0/CounterChallenge.runtimeconfig.json
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/bin/Debug/net8.0/CounterChallenge.dll
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/bin/Debug/net8.0/CounterChallenge.pdb
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.AssemblyInfoInputs.cache
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.AssemblyInfo.cs
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.csproj.CoreCompileInputs.cache
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.dll
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/refint/CounterChallenge.dll
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.pdb
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/CounterChallenge.genruntimeconfig.cache
+/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/Debug/net8.0/ref/CounterChallenge.dll
