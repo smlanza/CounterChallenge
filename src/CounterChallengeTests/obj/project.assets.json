@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallengeTests/CounterChallengeTests.csproj",
+      "projectUniqueName": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallengeTests/CounterChallengeTests.csproj",
       "projectName": "CounterChallengeTests",
-      "projectPath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallengeTests/CounterChallengeTests.csproj",
+      "projectPath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallengeTests/CounterChallengeTests.csproj",
       "packagesPath": "/Users/samlanza/.nuget/packages/",
-      "outputPath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallengeTests/obj/",
+      "outputPath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallengeTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samlanza/.nuget/NuGet/NuGet.Config"
@@ -1037,8 +1037,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/CounterChallenge.csproj": {
-              "projectPath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/CounterChallenge.csproj"
+            "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallenge/CounterChallenge.csproj": {
+              "projectPath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallenge/CounterChallenge.csproj"
             }
           }
         }

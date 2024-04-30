@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/CounterChallenge.csproj",
+      "projectUniqueName": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallenge/CounterChallenge.csproj",
       "projectName": "CounterChallenge",
-      "projectPath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/CounterChallenge.csproj",
+      "projectPath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallenge/CounterChallenge.csproj",
       "packagesPath": "/Users/samlanza/.nuget/packages/",
-      "outputPath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallenge/obj/",
+      "outputPath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallenge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samlanza/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t0VliRqSOES02QLNGpNhDNv/acqkgGQKBnxmp68DBZ4wxZoNgiNtAI5gjoTKvJRefauPVDq3uFLtO6ZoDRatpg==",
+  "dgSpecHash": "sCjLNCTQnDx/YP4fOwK3K1ignNhrYEj61ccYWrOnh7hOeA1TWGF1/tUN7wY3YKuMnYw35Eso9OVVHMNglKVkAg==",
   "success": true,
-  "projectFilePath": "/Users/samlanza/Documents/code/CounterChallenge/CounterChallengeTests/CounterChallengeTests.csproj",
+  "projectFilePath": "/Users/samlanza/Documents/GitHub/CounterChallenge/src/CounterChallengeTests/CounterChallengeTests.csproj",
   "expectedPackageFiles": [
     "/Users/samlanza/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/samlanza/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
